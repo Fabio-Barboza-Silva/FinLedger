@@ -1,0 +1,21 @@
+## Ficheiros de compilação e binários
+bin/
+obj/
+publish/
+
+## Configurações do Visual Studio e VS Code
+.vs/
+*.user
+*.userosscache
+*.suo
+.vscode/
+
+## Ferramentas de Testes e Cobertura
+TestResults/
+*.trx
+
+## Ficheiros do SO
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
